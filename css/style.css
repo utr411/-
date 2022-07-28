@@ -46,7 +46,7 @@ section {
 }
 
 .hero {
-  background-image: url(img/cover.jpg);
+  background-image: url(../img/cover.jpg);
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
@@ -107,6 +107,7 @@ section {
   font-size: 12px;
   line-height: 1;
 }
+
 .news-list .item .title {
   margin: 0;
   width: 100%;
